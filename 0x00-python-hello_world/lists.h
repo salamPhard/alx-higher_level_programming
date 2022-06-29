@@ -1,9 +1,9 @@
 #ifndef LISTS_H
 #define LISTS_H
-#include <stdio.h>
+#include <stdlib.h>
 
 /**
- * structs_listings - singly linked list
+ * struct_listing_s - singly linked list
  * @n: integer
  * @next: point to the next node
  *
